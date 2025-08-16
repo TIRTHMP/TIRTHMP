@@ -39,6 +39,20 @@
   <img src="https://skillicons.dev/icons?i=figma,replit,canva" />
 </div>
 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
+  
+  <br> 
+  
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TIRTHMP&theme=tokyonight">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TIRTHMP&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=TIRTHMP&theme=tokyonight">
+</div>
+
 <h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/TIRTHMP?tab=repositories">repositories</a>!</h3>
 
 
