@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Tirth Patel</h1>
+<h1 align="center">Hi there, I'm Tirth Patel! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
 
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=TIRTHMP&label=Profile%20views&color=0e75b6&style=flat"  alt="TIRTHMP"  />  </p>
 
@@ -26,7 +26,7 @@
 
 </p>
 
-# <img src="https://github.com/user-attachments/assets/9e7f5888-ec3c-491f-9ebc-cedefd62b6ea" alt="Robot" width="40" /> Tech Stack
+#  🛠️  Tech Stack
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
@@ -53,7 +53,7 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=TIRTHMP&theme=tokyonight">
 </div>
 
-<h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/TIRTHMP?tab=repositories">repositories</a>!</h3>
+<h3 align="center">"Technology is best when it brings people together and creates opportunities for those who need them most."</h3>
 
 
 
