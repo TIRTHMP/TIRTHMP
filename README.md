@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Tirth Patel! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
 
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=TIRTHMP&label=Profile%20views&color=0e75b6&style=flat"  alt="TIRTHMP"  />  </p>
-
-
-
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with me 
 
 <p align="center">
