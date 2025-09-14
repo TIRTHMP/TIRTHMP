@@ -14,7 +14,7 @@
   </a>
 
    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=for-the-badge&logo=Gmail&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://leetcode.com/u/VJex5vhUSi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
@@ -49,7 +49,7 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=TIRTHMP&theme=tokyonight&hide_border=true">
 </div>
 
-<h3 align="center">"Technology is best when it brings people together and creates opportunities for those who need them most."</h3>
+<h3 align="center"><i>"Technology is best when it brings people together and creates opportunities for those who need them most."</i></h3>
 
 
 
