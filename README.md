@@ -26,7 +26,7 @@
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=css,c,html,java,python" /><br />
+  <img src="https://skillicons.dev/icons?i=python,css,c,html,java,javascript" /><br />
 
   <h3>Tools & Development Platforms</h3>
   <img src="https://skillicons.dev/icons?i=github,git,vscode,powershell" /><br />
