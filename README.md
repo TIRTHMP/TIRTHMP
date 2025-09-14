@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=css,c,html,java,python" /><br />
 
   <h3>Tools & Development Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,Windows Terminal" /><br />
 
   <h3>Operating Systems & Miscellaneous</h3>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
