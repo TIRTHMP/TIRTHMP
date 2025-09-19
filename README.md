@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/tirth._2310/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-tirth._2310-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://meet244.github.io/TIRTHMP/" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/TIRTHMP/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Tirth%20Patel-DB4437?style=for-the-badge&logo=github&logoColor=white" alt="Website">
   </a>
 
