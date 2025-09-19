@@ -46,7 +46,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TIRTHMP&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TIRTHMP&theme=tokyonight&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em"src="https://github-readme-streak-stats.herokuapp.com?user=TIRTHMP&theme=tokyonight" alt="TIRTHMP streak badge"/>
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=TIRTHMP&theme=tokyonight" alt="TIRTHMP streak badge"/>
 <img src="https://github-profile-trophy.vercel.app/?username=TIRTHMP&theme=tokyonight&row=1&column=6&no-frame=true" alt="TIRTHMP trophies"/>
 </div>
 
