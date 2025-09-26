@@ -29,10 +29,10 @@
   <img src="https://skillicons.dev/icons?i=python,css,c,html,java,javascript" /><br />
 
   <h3>Tools & Development Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,powershell" /><br />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br />
 
   <h3>Operating Systems & Miscellaneous</h3>
-  <img src="https://skillicons.dev/icons?i=figma,replit,windows" />
+  <img src="https://skillicons.dev/icons?i=figma,windows" />
 </div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
