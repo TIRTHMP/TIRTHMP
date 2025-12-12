@@ -62,9 +62,9 @@
     <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&langs_count=8&theme=default" height="200px">
   </picture>
 
-  ![](https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=transparent&border=false&include_all_commits=tue&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&theme=transparent&border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
