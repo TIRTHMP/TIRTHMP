@@ -28,7 +28,7 @@
   
   <br> 
   
-<div align="center" style="display: flex; justify-content: center; gap: 20; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
