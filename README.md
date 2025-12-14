@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:667eea,100:764ba2&text=Hi,%20I'm%20Tirth&fontColor=ffffff&desc=Computer%20Science%20•%20CyberSecurity%20•%20AI/ML&descAlign=50&fontAlign=50&fontAlignY=30" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:667eea,100:764ba2&text=Hi,%20I'm%20Tirth&fontColor=ffffff&desc=Computer%20Science%20•%20CyberSecurity&descAlign=50&fontAlign=50&fontAlignY=30" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -31,9 +31,9 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default" height="200px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=default" height="200px">
   </picture>
 
   <picture>
