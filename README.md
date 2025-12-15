@@ -62,20 +62,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tirth-p-b46aab32a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-blue?style=for-the-badge&logo=LogMeIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Tirth%20Patel-blue?style=flat&logo=LogMeIn&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/tirth._2310/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-tirth._2310-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-tirth._2310-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/TIRTHMP/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-DB4437?style=for-the-badge&logo=github&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/-Tirth%20Patel-DB4437?style=flat&logo=github&logoColor=white" alt="Website">
   </a>
 
    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <!-- <a href="https://leetcode.com/u/VJex5vhUSi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?flat&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
 -->
 </p>
