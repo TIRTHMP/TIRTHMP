@@ -31,9 +31,9 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=false&theme=default" height="200px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default" height="200px">
   </picture>
 
   <picture>
@@ -64,16 +64,19 @@
   <a href="https://www.linkedin.com/in/tirth-p-b46aab32a/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Tirth%20Patel-blue?style=flat&logo=LogMeIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/tirth._2310/" target="_blank" rel="noopener noreferrer">
+  
+  <!--<a href="https://www.instagram.com/tirth._2310/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-tirth._2310-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a>-->
+  
   <a href="https://github.com/TIRTHMP/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-DB4437?style=flat&logo=github&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/-Tirth%20Patel-100000?style=flat&logo=github&logoColor=white" alt="Website">
   </a>
 
    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
+  
   <!-- <a href="https://leetcode.com/u/VJex5vhUSi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?flat&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
