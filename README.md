@@ -72,7 +72,7 @@
   </a>
 
    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-2EC866?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <!-- <a href="https://leetcode.com/u/VJex5vhUSi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?flat&logo=LeetCode&logoColor=black" alt="LeetCode">
