@@ -94,8 +94,7 @@ I enjoy:
 ## 📫 Connect With Me
 
 🌐 **Portfolio:** https://tirthmp.github.io  
-💼 **LinkedIn:** https://www.linkedin.com
-📧 **Email:** tirthmpatel25@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com 📧 **Email:** tirthmpatel25@gmail.com
 
 ---
 
