@@ -95,7 +95,6 @@ I enjoy:
 
 🌐 **Portfolio:** https://tirthmp.github.io  
 💼 **LinkedIn:** https://www.linkedin.com
-
 📧 **Email:** tirthmpatel25@gmail.com
 
 ---
