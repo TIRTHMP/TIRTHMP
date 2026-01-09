@@ -48,7 +48,6 @@ I enjoy:
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
 </p>
 
 ### 🔐 Systems & Security
