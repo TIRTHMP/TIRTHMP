@@ -1,68 +1,104 @@
-# 👋 Hi, I'm Tirth Patel
+<h1 align="center">Tirth Patel</h1>
 
-🎓 **B.Tech Computer Science Engineering Student**  
-🏫 Shri Bhagubhai Mafatlal Polytechnic & College of Engineering  
-🔐 Aspiring **Cybersecurity Professional** | Developer | Tech Enthusiast  
+<p align="center">
+<strong>Cybersecurity-Oriented Computer Science Engineering Student</strong>
+</p>
 
----
+<p align="center">
+<code>Secure • Minimal • System-Focused</code>
+</p>
 
-## 🛡️ Cybersecurity Profile
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-001F3F?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TIRTHMP&style=flat-square&color=0abdc6" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🛡️ Cybersecurity Focus
 
-I’m a Computer Science Engineering student with a strong interest in **cybersecurity, secure software development, and system-level technologies**.  
-I enjoy exploring how systems work internally and how they can be **secured against real-world threats**.
-
-I strongly believe in **learning by building and breaking (ethically)**.
-
----
-
-## 🛠️ Technical Skills
-
-### 🔐 Cybersecurity & Systems
-- Networking Fundamentals  
-- Linux Basics  
-- Web Application Security  
-- Ethical Hacking Fundamentals  
-- OS & System Internals  
-
-### 💻 Development
-- **Languages:** C, C++, Python, JavaScript  
-- **Web:** HTML, CSS, React  
-- **Tools:** Git, GitHub, VS Code, Vercel  
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Security-001F3F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Projects
+## 👨‍💻 About Me
+
+I’m a **B.Tech Computer Science Engineering student** at  
+**Shri Bhagubhai Mafatlal Polytechnic & College of Engineering**,  
+with a strong interest in **cybersecurity, secure development, and system internals**.
+
+I enjoy:
+- Understanding how systems work under the hood  
+- Identifying vulnerabilities **ethically**  
+- Building secure and efficient applications  
+
+> Mindset: **Build → Analyze → Secure**
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Development
+<p>
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+</p>
+
+### 🔐 Systems & Security
+<p>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cisco" />
+<img src="https://img.shields.io/badge/Web%20Security-black?style=for-the-badge&logo=owasp" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+</p>
+
+---
+
+## 🚀 Projects
 
 🔹 **Personal Portfolio Website**  
 - Cybersecurity-focused personal branding  
-- Dark/Light mode UI  
+- Dark / Light mode UI  
 - Deployed on **Vercel**
 
 🔹 **Hangman Game (Python)**  
-- GUI-based with sound effects  
+- GUI-based game with audio  
 - Desktop & mobile compatible  
 
-> More security-focused projects coming soon 🚧
+🔹 **Security & Web Mini Projects**  
+- Hands-on learning via implementation  
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TIRTHMP&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** https://tirthmp.github.io  
-- 💼 **LinkedIn:** https://www.linkedin.com  
+🌐 **Portfolio:** https://tirthmp.github.io  
+💼 **LinkedIn:** https://www.linkedin.com  
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+<p align="center">
+<code>Always learning. Always improving.</code>
+</p>
