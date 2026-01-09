@@ -1,93 +1,84 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:667eea,100:764ba2&text=Hi,%20I'm%20Tirth&fontColor=ffffff&desc=Computer%20Science%20•%20CyberSecurity&descAlign=50&fontAlign=50&fontAlignY=30" width="100%" alt="header"/>
-</p>
+# 👋 Hi, I'm Tirth Patel
 
-<div align="center">
+🎓 **B.Tech Computer Science Engineering Student**  
+🏫 Shri Bhagubhai Mafatlal Polytechnic & College of Engineering  
+🔐 Aspiring **Cybersecurity Professional** | Developer | Tech Enthusiast  
 
-[![GitHub followers](https://img.shields.io/github/followers/TIRTHMP?style=for-the-badge&color=667eea&label=Followers)](https://github.com/TIRTHMP?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=TIRTHMP&style=for-the-badge&color=667eea&labelColor=0d1117&label=Profile+Views)
+---
 
-</div>
+## 🚀 About Me
 
+I’m a Computer Science Engineering student with a strong interest in **cybersecurity, software development, and emerging technologies**.  
+I enjoy building practical projects, securing systems, and continuously learning how technology can be made safer and more efficient.
 
+I believe in **learning by building**, and I actively work on projects that strengthen both my **development** and **security fundamentals**.
 
-#  🛠️  Tech Stack
+---
 
-<div align="center">
-  <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=python,css,c,html,java,javascript" /><br />
+## 🛠️ Technical Skills
 
-  <h3>Tools & Development Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br />
+### 💻 Programming & Development
+- **Languages:** C, C++, Python, JavaScript  
+- **Web:** HTML, CSS, React  
+- **Tools:** Git, GitHub, VS Code, Vercel  
 
-  <h3>Operating Systems & Miscellaneous</h3>
-  <img src="https://skillicons.dev/icons?i=figma,windows" />
-</div>
+### 🔐 Cybersecurity & Systems
+- Networking Fundamentals  
+- Linux Basics  
+- Ethical Hacking Fundamentals  
+- Web Security Basics  
+- OS & System Concepts  
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
-  
-  <br> 
-  
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+---
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=TIRTHMP&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
+## 📂 Projects
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&langs_count=8&theme=transparent&title_color=667eea&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
+🔹 **Personal Portfolio Website**  
+- Responsive developer portfolio with dark/light mode  
+- Focus on cybersecurity branding  
+- Deployed using **Vercel**
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false&title_color=667eea&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false">
-    <img alt="Streaks" src="https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false" height="200px">
-  </picture>
+🔹 **Hangman Game (Python)**  
+- GUI-based game with sound effects  
+- Designed for desktop and mobile compatibility  
 
+🔹 **Mini Security & Web Projects**  
+- Hands-on practice with frontend, backend, and security concepts  
 
-<!--  
-![](https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=transparent&show_icons=true&hide_border=false&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&theme=transparent&show_icons=true&hide_border=false&layout=compact)
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false)<br/>
--->
-</div>
+> More projects coming soon 🚧
 
+---
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Let's Connect 
+## 📜 Certifications & Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tirth-p-b46aab32a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-blue?style=flat&logo=LogMeIn&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <!--<a href="https://www.instagram.com/tirth._2310/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-tirth._2310-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>-->
-  
-  <a href="https://github.com/TIRTHMP/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-100000?style=flat&logo=github&logoColor=white" alt="Website">
-  </a>
+- Google Cybersecurity (In Progress)  
+- Networking & Linux Fundamentals  
+- Continuous self-learning via labs, documentation, and projects  
 
-   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  
-  <!-- <a href="https://leetcode.com/u/VJex5vhUSi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Tirth%20Patel-FFA116?flat&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
--->
-</p>
-<br><br>
+---
 
+## 🌱 Currently Learning
 
-<h3 align="center"><i>"Technology is best when it brings people together and creates opportunities for those who need them most."</i></h3>
+- Web Application Security  
+- Linux Internals  
+- Networking & Protocols  
+- Cybersecurity Tools & Methodologies  
 
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIRTHMP&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&theme=radical)
 
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** https://tirthmp.github.io  
+- 💼 **LinkedIn:** https://www.linkedin.com  
+- 📧 **Email:** *(Add if you want)*  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
