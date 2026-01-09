@@ -93,7 +93,7 @@ I enjoy:
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:** https://tirthmp.github.io  
+🌐 **Portfolio:** https://portfolio-main-chi-murex.vercel.app/
 💼 **LinkedIn:** https://www.linkedin.com 📧 **Email:** tirthmpatel25@gmail.com
 
 ---
