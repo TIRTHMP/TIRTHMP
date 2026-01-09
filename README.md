@@ -6,70 +6,55 @@
 
 ---
 
+## 🛡️ Cybersecurity Profile
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-001F3F?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
 ## 🚀 About Me
 
-I’m a Computer Science Engineering student with a strong interest in **cybersecurity, software development, and emerging technologies**.  
-I enjoy building practical projects, securing systems, and continuously learning how technology can be made safer and more efficient.
+I’m a Computer Science Engineering student with a strong interest in **cybersecurity, secure software development, and system-level technologies**.  
+I enjoy exploring how systems work internally and how they can be **secured against real-world threats**.
 
-I believe in **learning by building**, and I actively work on projects that strengthen both my **development** and **security fundamentals**.
+I strongly believe in **learning by building and breaking (ethically)**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Development
-- **Languages:** C, C++, Python, JavaScript  
-- **Web:** HTML, CSS, React  
-- **Tools:** Git, GitHub, VS Code, Vercel  
-
 ### 🔐 Cybersecurity & Systems
 - Networking Fundamentals  
 - Linux Basics  
+- Web Application Security  
 - Ethical Hacking Fundamentals  
-- Web Security Basics  
-- OS & System Concepts  
+- OS & System Internals  
+
+### 💻 Development
+- **Languages:** C, C++, Python, JavaScript  
+- **Web:** HTML, CSS, React  
+- **Tools:** Git, GitHub, VS Code, Vercel  
 
 ---
 
 ## 📂 Projects
 
 🔹 **Personal Portfolio Website**  
-- Responsive developer portfolio with dark/light mode  
-- Focus on cybersecurity branding  
-- Deployed using **Vercel**
+- Cybersecurity-focused personal branding  
+- Dark/Light mode UI  
+- Deployed on **Vercel**
 
 🔹 **Hangman Game (Python)**  
-- GUI-based game with sound effects  
-- Designed for desktop and mobile compatibility  
+- GUI-based with sound effects  
+- Desktop & mobile compatible  
 
-🔹 **Mini Security & Web Projects**  
-- Hands-on practice with frontend, backend, and security concepts  
-
-> More projects coming soon 🚧
-
----
-
-## 📜 Certifications & Learning
-
-- Google Cybersecurity (In Progress)  
-- Networking & Linux Fundamentals  
-- Continuous self-learning via labs, documentation, and projects  
-
----
-
-## 🌱 Currently Learning
-
-- Web Application Security  
-- Linux Internals  
-- Networking & Protocols  
-- Cybersecurity Tools & Methodologies  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIRTHMP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&theme=radical)
+> More security-focused projects coming soon 🚧
 
 ---
 
@@ -77,7 +62,6 @@ I believe in **learning by building**, and I actively work on projects that stre
 
 - 🌐 **Portfolio:** https://tirthmp.github.io  
 - 💼 **LinkedIn:** https://www.linkedin.com  
-- 📧 **Email:** *(Add if you want)*  
 
 ---
 
