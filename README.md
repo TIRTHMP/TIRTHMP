@@ -94,8 +94,11 @@ I enjoy:
 ## 📫 Connect With Me
 
 🌐 **Portfolio:** https://portfolio-main-chi-murex.vercel.app/
-   **Instagram:** https://www.instagram.com/tirth.cyberdev?igsh=bHRxNzF0eTE5bHVm
+
+🔗  **Instagram:** https://www.instagram.com/tirth.cyberdev?igsh=bHRxNzF0eTE5bHVm
+   
 💼 **LinkedIn:** https://www.linkedin.com/in/tirth-p-b46aab32a
+
 📧 **Email:** tirthmpatel25@gmail.com
 
 ---
