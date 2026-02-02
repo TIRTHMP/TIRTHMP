@@ -1,112 +1,109 @@
-<h1 align="center">Tirth Patel</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Tirth Patel
 
-<p align="center">
-<strong>Cybersecurity-Oriented Computer Science Engineering Student</strong>
-</p>
+### CS Engineering Student | Software Developer | AI Enthusiast
 
-<p align="center">
-<code>Secure • Minimal • System-Focused</code>
-</p>
+*Building solutions through code, one commit at a time*
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TIRTHMP&style=flat-square&color=0abdc6" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirth-p-b46aab32a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIRTHMP)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthmpatel25@gmail.com)
 
----
-
-## 🛡️ Cybersecurity Focus
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Security-001F3F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a **B.Tech Computer Science Engineering student** at  
-**Shri Bhagubhai Mafatlal Polytechnic & College of Engineering**,  
-with a strong interest in **cybersecurity, secure development, and system internals**.
-
-I enjoy:
-- Understanding how systems work under the hood  
-- Identifying vulnerabilities **ethically**  
-- Building secure and efficient applications  
-
-> Mindset: **Build → Analyze → Secure**
+- 🎓 BTech in Computer Science Engineering student from India
+- 💻 Passionate about building scalable software solutions and exploring AI/ML
+- 🌱 Currently diving deep into **Advanced Backend Development** and **AI Agents**
+- 🎯 Goal: Become a skilled software engineer who creates meaningful impact
+- 📚 Curious learner who believes in learning by building
+- 🔍 Detail-oriented problem solver with a project-driven approach
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages & Development
-<p>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔐 Systems & Security
-<p>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cisco" />
-<img src="https://img.shields.io/badge/Web%20Security-black?style=for-the-badge&logo=owasp" />
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode" />
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Projects
+## 📚 Currently Learning
 
-🔹 **Personal Portfolio Website**  
-- Cybersecurity-focused personal branding  
-- Dark / Light mode UI  
-- Deployed on **Vercel**
-
-🔹 **Hangman Game (Python)**  
-- GUI-based game with audio  
-- Desktop & mobile compatible  
-
-🔹 **Security & Web Mini Projects**  
-- Hands-on learning via implementation  
+- 🔧 Advanced Backend Development with Node.js and microservices
+- 🤖 AI Agents and their practical applications
+- 🧠 Machine Learning algorithms and implementations
+- ☁️ Cloud technologies and deployment strategies
 
 ---
 
-## 🏆 GitHub Achievements
+## 💡 Featured Projects
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+### 🔐 Vaultify Application
 
-  ![](https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🤖 AI Web Scrapper
 
-  </div>
+### 🌐 Portfolio Dashboard
 
----
+### 🔑 Password Strength Auditor
 
-## 📫 Connect With Me
+### 💰 ZORA A.I.
 
-🌐 **Portfolio:** https://portfolio-main-chi-murex.vercel.app/
-
-🔗  **Instagram:** https://www.instagram.com/tirth.cyberdev?igsh=bHRxNzF0eTE5bHVm
-   
-💼 **LinkedIn:** https://www.linkedin.com/in/tirth-p-b46aab32a
-
-📧 **Email:** tirthmpatel25@gmail.com
 
 ---
 
-<p align="center">
-<code>Always learning. Always improving.</code>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIRTHMP&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TIRTHMP&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tirth-p-b46aab32a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://tirthmp.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tirthmpatel25@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+**Thanks for visiting! Feel free to explore my repositories and connect.** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=TIRTHMP&color=blueviolet&style=flat-square)
+
+</div>
