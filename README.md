@@ -87,8 +87,6 @@ I enjoy:
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-
-
   ![](https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=TIRTHMP&theme=transparent&border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMP&theme=transparent&border=false&include_all_commits=false&count_private=false&layout=compact)
