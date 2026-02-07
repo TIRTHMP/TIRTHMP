@@ -63,11 +63,9 @@
 
 ### 🤖 AI Web Scrapper
 
-### 🌐 Portfolio Dashboard
+### 🌐 Portfolio Website
 
-### 🔑 Password Strength Auditor
-
-### 💰 ZORA A.I.
+### 🤖 ZORA A.I.
 
 ---
 
