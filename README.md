@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech in Computer Science Engineering student from India
+- 🎓 BTech in Computer Science Engineering student 
 - 💻 Passionate about building scalable software solutions and exploring AI/ML
 - 🌱 Currently diving deep into **Advanced Backend Development** and **AI Agents**
 - 🎯 Goal: Become a skilled software engineer who creates meaningful impact
