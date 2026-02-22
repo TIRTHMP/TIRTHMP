@@ -27,24 +27,40 @@
 
 ## 🛠️ Tech Stack
 
+
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/Html5-00599C?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -57,15 +73,27 @@
 
 ---
 
-## 💡 Featured Projects
+## 📌 Featured Projects
 
-### 🔐 Vaultify Application
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🔐 [VaultX](https://github.com/TIRTHMP/VaultX) | Biometric-secured mobile vault for storing payment card details | React Native, Expo, EAS | ✅ Live |
+| 🌐 [Portfolio](https://github.com/TIRTHMP/Portfolio) | Personal portfolio with terminal UI & scroll animations | HTML, CSS, JS | ✅ Live |
+<!--
+| 🤖 Vaultify App | Full-stack real-time application | React, Node.js, Socket.io, MongoDB | 🚧 WIP |
+| 🕷️ AI Web Scraper | Intelligent scraping tool with network analysis & data visualization | Python, Scapy, Matplotlib | 🚧 WIP |
+| 🧠 ZORA A.I. | AI-powered Web3 application | React, Web3.js, D3.js | 🚧 WIP |
+-->
+---
 
-### 🤖 AI Web Scrapper
+## 📊 GitHub Analytics
 
-### 🌐 Portfolio Website
-
-### 🤖 ZORA A.I.
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TIRTHMP&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TIRTHMP&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 
 ---
 
@@ -87,6 +115,6 @@
 
 **Thanks for visiting! Feel free to explore my repositories and connect.** ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=TIRTHMP&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TIRTHMP&color=blue&style=flat-square)
 
 </div>
