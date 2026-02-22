@@ -93,8 +93,8 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TIRTHMP&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TIRTHMP&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TIRTHMP&theme=tokyonight&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=TIRTHMP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TIRTHMP&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  
 ---
 
 ## 🤝 Connect With Me
