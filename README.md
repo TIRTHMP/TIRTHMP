@@ -76,7 +76,7 @@
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🔐 [VaultX](https://github.com/TIRTHMP/VaultX) | Biometric-secured mobile vault for storing payment card details | React Native, Expo, EAS | ✅ Live |
+| 🔐 [VaultX](https://github.com/TIRTHMP/VaultX) | Biometric-secured mobile vault for storing payment card details | React Native, Expo, EAS, Supabase, TypeScript | ✅ Live |
 | 🌐 [Portfolio](https://github.com/TIRTHMP/Portfolio) | Personal portfolio with terminal UI & scroll animations | HTML, CSS, JS | ✅ Live |
 <!--
 | 🤖 Vaultify App | Full-stack real-time application | React, Node.js, Socket.io, MongoDB | 🚧 WIP |
