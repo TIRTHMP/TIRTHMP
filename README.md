@@ -78,6 +78,7 @@
 |--------|-------------|-------|--------|
 | 🔐 [VaultX](https://github.com/TIRTHMP/VaultX) | Biometric-secured mobile vault for storing payment card details | React Native, Expo, EAS, Supabase, TypeScript | ✅ Live |
 | 🌐 [Portfolio](https://github.com/TIRTHMP/Portfolio) | Personal portfolio with terminal UI & scroll animations | HTML, CSS, JS | ✅ Live |
+| 🛡️ [SENTINEL-X](https://github.com/TIRTHMP/Sentinel-X) | AI-powered email forensics & threat intelligence platform — SIH prototype | React, Vite, TypeScript, Tailwind, React Flow, Recharts | ✅ Live |
 <!--
 | 🤖 Vaultify App | Full-stack real-time application | React, Node.js, Socket.io, MongoDB | 🚧 WIP |
 | 🕷️ AI Web Scraper | Intelligent scraping tool with network analysis & data visualization | Python, Scapy, Matplotlib | 🚧 WIP |
